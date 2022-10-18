@@ -15,3 +15,6 @@ conteudo de Variáveis e Operadores.
 
 
 JAVASCRIPT
+*************************************************************************************************
+Esse repositório contem os exercicios do professor desse bootcamp e a resolução dos mesmo, para 
+acessar entre [aqui.](https://github.com/digitalinnovationone/javascript-developer-m1)
